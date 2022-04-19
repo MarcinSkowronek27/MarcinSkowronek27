@@ -44,4 +44,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="40" height="40"/>&nbsp;
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarcinSkowronek27&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=50DD89)](https://git.io/streak-stats)
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marcinskowronek27&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcinskowronek27&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 💪 My projects :
+- <a href="https://pizzeriasite.herokuapp.com"> Pizzeria site</a>
+- <a href="https://app-express-server.herokuapp.com/"> Concerts site to take a reservation of seats</a>
+- <a href="https://bicycle-shop-2.herokuapp.com"> Bicycle shop</a>
+- <a href="https://marcinskowronek27.github.io/ADream_task/"> A Dream site</a>
